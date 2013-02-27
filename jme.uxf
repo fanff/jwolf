@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="11.5.1">
+  <zoom_level>12</zoom_level>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>720</x>
+      <y>708</y>
+      <w>120</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>Material</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>372</x>
+      <y>696</y>
+      <w>120</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>Geometry</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>456</x>
+      <y>660</y>
+      <w>288</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1= 
+m2=0..
+has&gt;</panel_attributes>
+    <additional_attributes>36;60;264;60</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>360</x>
+      <y>540</y>
+      <w>132</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Spatial</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>384</x>
+      <y>576</y>
+      <w>60</w>
+      <h>144</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>36;36;36;120</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>1020</x>
+      <y>192</y>
+      <w>324</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>/AbstractAppState/</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>948</x>
+      <y>588</y>
+      <w>276</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>FOOAppState</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>1308</x>
+      <y>84</y>
+      <w>132</w>
+      <h>168</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>108;36;84;36;36;144</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>1296</x>
+      <y>216</y>
+      <w>60</w>
+      <h>396</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>36;36;36;372</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>60</x>
+      <y>228</y>
+      <w>276</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>AbstractControl</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>0</x>
+      <y>360</y>
+      <w>276</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>FOOControl</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>300</x>
+      <y>168</y>
+      <w>312</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>288;36;156;36;36;96</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Interface</type>
+    <coordinates>
+      <x>540</x>
+      <y>192</y>
+      <w>120</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>Control
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>84</x>
+      <y>252</y>
+      <w>60</w>
+      <h>132</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>36;36;36;108</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>384</x>
+      <y>240</y>
+      <w>228</w>
+      <h>324</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1= 
+m2=0..
+has&gt;</panel_attributes>
+    <additional_attributes>36;300;36;180;108;180;204;36</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>1248</x>
+      <y>588</y>
+      <w>276</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>FlyCamAppState</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>1152</x>
+      <y>216</y>
+      <w>60</w>
+      <h>396</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>36;36;36;372</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>1308</x>
+      <y>840</y>
+      <w>276</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>InputManager</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>1008</x>
+      <y>0</y>
+      <w>276</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>AppStateManager</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>1092</x>
+      <y>24</y>
+      <w>110</w>
+      <h>192</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=0..* 
+m2= 
+has&gt;</panel_attributes>
+    <additional_attributes>60;168;60;36</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>1860</x>
+      <y>468</y>
+      <w>144</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>Cinematic</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>1800</x>
+      <y>84</y>
+      <w>156</w>
+      <h>408</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>36;36;132;36;132;384</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>2028</x>
+      <y>468</y>
+      <w>144</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>BulletAppState</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>1800</x>
+      <y>84</y>
+      <w>312</w>
+      <h>408</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>36;36;288;36;288;384</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>1572</x>
+      <y>684</y>
+      <w>276</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>FlyByCamera</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>1464</x>
+      <y>612</y>
+      <w>132</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1
+m2= 
+</panel_attributes>
+    <additional_attributes>108;84;36;36</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>1416</x>
+      <y>72</y>
+      <w>420</w>
+      <h>336</h>
+    </coordinates>
+    <panel_attributes>I
+/AppState/
+
+
+
+void initialize(AppStateManager, Application)
+boolean isInitialized()
+ 
+void setEnabled(boolean active)
+boolean isEnabled()
+ 
+void stateAttached(AppStateManager stateManager)
+void stateDetached(AppStateManager stateManager)
+ 
+void update(float tpf)
+void render(RenderManager rm)
+void postRender()
+void cleanup()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>1812</x>
+      <y>612</y>
+      <w>300</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>276;36;36;84</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>2088</x>
+      <y>624</y>
+      <w>276</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>I
+/AnalogListener/</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>2088</x>
+      <y>720</y>
+      <w>276</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>I
+/ActionListener/</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>1812</x>
+      <y>696</y>
+      <w>300</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>276;36;36;36</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>1656</x>
+      <y>840</y>
+      <w>276</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>Camera</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>1680</x>
+      <y>708</y>
+      <w>60</w>
+      <h>156</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1
+m2= 
+</panel_attributes>
+    <additional_attributes>36;132;36;36</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>1488</x>
+      <y>708</y>
+      <w>144</w>
+      <h>156</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1
+m2= 
+</panel_attributes>
+    <additional_attributes>36;132;120;36</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>156</x>
+      <y>1044</y>
+      <w>360</w>
+      <h>252</h>
+    </coordinates>
+    <panel_attributes>SimpleApplication
+--
+{innerclass
+AppActionListener
+--
+onAction
+innerclass}
+Node rootNode
+Node guiNode
+ 
+FlyByCamera flycam
+
+AppActionListener actlistener</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>612</x>
+      <y>888</y>
+      <w>288</w>
+      <h>504</h>
+    </coordinates>
+    <panel_attributes>Application
+--
+  AssetManager assetManager;
+
+  AudioRenderer audioRenderer;
+  Renderer renderer;
+  RenderManager renderManager;
+  ViewPort viewPort;
+  ViewPort guiViewPort;
+
+  JmeContext context;
+  AppSettings settings;
+  Timer timer = new NanoTimer();
+  Camera cam;
+  Listener listener;
+
+  boolean inputEnabled = true;
+  boolean pauseOnFocus = true;
+  float speed = 1f;
+  boolean paused = false;
+  MouseInput mouseInput;
+  KeyInput keyInput;
+  JoyInput joyInput;
+  TouchInput touchInput;
+  InputManager inputManager;
+  AppStateManager stateManager;</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>288</x>
+      <y>900</y>
+      <w>348</w>
+      <h>168</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>324;36;36;36;36;144</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>1056</x>
+      <y>1128</y>
+      <w>276</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>AppActionListener</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>396</x>
+      <y>1260</y>
+      <w>60</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>36;36;36;84</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>372</x>
+      <y>1344</y>
+      <w>192</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>FOOApplication</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
