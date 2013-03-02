@@ -15,7 +15,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="jME3_2013-02-09/lib/jME3-desktop.jar"/>
-	<classpathentry kind="lib" path="jME3_2013-02-09/lib/jME3-effects.jar"/>
+	<classpathentry kind="lib" path="jME3_2013-02-09/lib/jME3-effects.jar" sourcepath="jME3_2013-02-09/source"/>
 	<classpathentry kind="lib" path="jME3_2013-02-09/lib/jME3-jbullet.jar"/>
 	<classpathentry kind="lib" path="jME3_2013-02-09/lib/jME3-jogg.jar"/>
 	<classpathentry kind="lib" path="jME3_2013-02-09/lib/jME3-lwjgl-natives.jar"/>
@@ -35,6 +35,6 @@
 	<classpathentry kind="lib" path="jME3_2013-02-09/lib/stack-alloc.jar"/>
 	<classpathentry kind="lib" path="jME3_2013-02-09/lib/vecmath.jar"/>
 	<classpathentry kind="lib" path="jME3_2013-02-09/lib/xmlpull-xpp3.jar"/>
-	<classpathentry kind="lib" path="jME3_2013-02-09/jMonkeyEngine3.jar"/>
+	<classpathentry kind="lib" path="jME3_2013-02-09/jMonkeyEngine3.jar" sourcepath="jME3_2013-02-09/source"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
